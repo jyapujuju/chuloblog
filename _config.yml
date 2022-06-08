@@ -4,12 +4,6 @@ sass:
   sass_dir: _sass
   style: compressed
 collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /:slug/
   authors:
     output: true
     permalink: /:collection/:path/
