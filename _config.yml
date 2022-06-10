@@ -6,4 +6,4 @@ sass:
 collections:
   authors:
     output: true
-    permalink: /:collection/:path/
+    permalink: /authors/:path/
